@@ -1,49 +1,59 @@
----
-title: "[PickUp] カルパシーさん休養中"
-linkTitle: "megacasts"
-date: 2022-03-28
-tags:
-- PickUp
-- Tesla
-description: >
-  TESLAの要，Karpathy氏がしばし休養(sabbatical)．
+# プロフィール
+氏名：白石卓也（@stkdev）
 
-marp: true
-theme: slide_style
-size: 16:9
-paginate: true
-headingDivider: 2
-header: ":car: Tesla AI Director Andrej Karpathy explains his ~4-month sabbatical"
-footer: "(C)2022 PUES Corp."
----
-## 所感
-- Dojoの本格稼働までは調整か．
-- このタイミングということは，昨年のAI Dayで人材獲得うまく行ったのかな．
-- @elonmask FSDのSingleスタック化はまだ？
-- Optimusの登場は順延？CyberTruckの来年登場も微妙か．
+ソフトウェアエンジニア兼データ分析屋。どちらも中途半端ですが元気に活動しています。
+もふもふの鳥が好き。
+
+# 学歴・職歴
+
+2003年 高松高専 制御情報工学科（現：香川高専 機械電子工学科）
+
+2008年 徳島大学 工学部 知能情報工学科
+
+> 2009 - 2012年 株式会社エイペックス（現：株式会社MetaMoji エイペックス研究所）アルバイト
+
+2010年 徳島大学大学院 端技術科学教育部 知能情報システム工学コース
+
+2012年 中央コンピューター株式会社
+
+2017年 ナビプラス株式会社
 
 
-## 記事(TESLARATI)の意訳
-テスラがカナダにフルセルフベータシステムを展開し始めた際、テスラCEOのイーロン・マスクは、同社のAIディレクターであるディープラーニングの専門家でOpenAI創設メンバーのアンドレイ・カーパシーが現在〜4ヶ月のサバティカルをとっていることを明らかにしました。Karpathy氏はTwitterでこのニュースを確認した。
+## 使用技術経歴
+- Webアプリケーション開発
+    - PHP(CakePHP)
+    - VB.NET
+    - Java, ActionScript(Flex)
+    - JavaScript(Knockout.js)
+    - Ruby(Rails)
+- Androidアプリケーション開発
+    - Java, JavaScript(Titanium Mobile)
+- データ分析
+    - R(Shiny), Hadoop, SPSS, Python, SQL(Redash)
+    - テーマ：電力分析、検索ログ分析、需要予測、Webマーケティング　等
 
-AIディレクターによると、彼は現在、休養と旅行のためにテスラをしばらく休んでいるが、集中力を高め、技術的なエッジを再び研ぎ澄ますことにも興奮しているとのことだ。AIディレクターはさらに、電気自動車メーカーでの仕事に戻ることを楽しみにしていると述べています。
+# アカウント
 
----
+|サービス|アカウント|備考|
+|:---|:---|:---|
+|Twitter|[@stkdev](https://twitter.com/stkdev)|更新情報を中心につぶやいているツイッター|
+|Qiita|[@stkdev](http://qiita.com/stkdev)|プログラム系のまとまった情報はこちらに投稿|
+|HatenaBlog|[@stkdev](http://stkdev.hatenablog.com/)|チラシの裏。ITネタ,開発記録,雑談,ポエムなどを自由に書くところ|
+|note|[stkdev](https://note.mu/stkdev)|分析系の話を書きたいつもり|
+|GitHub|[@stkdev](https://github.com/stkdev)  [@stkdev(Gist)](https://gist.github.com/stkdev)||
+|SlideShare|[takosumipasta](https://www.slideshare.net/takosumipasta)|勉強会などのために作ったスライドはこちらに公開|
+|Kaggle|[stkdev](https://www.kaggle.com/takosumipasta)|（活動前）|
+|SIGNATE|[tako](https://signate.jp/users/519/history)|日本版分析コンペサイト|
+|AtCoder|[stkdev](https://atcoder.jp/users/stkdev)|競技プログラミング|
+|読書メーター|[stkdev](https://bookmeter.com/users/969505)|積読リスト|
 
->    テスラでの約5年間の勤務を終えて、休養と旅行のためにしばらく時間を取る。テスラで5年近く働いた後、休養と旅行のためにしばらく休んでいます。ロボットやGPU/Dojoクラスタが恋しいけど、また手元で使えるようになるのが楽しみ❤️😅 https://t.co/R2Yidw9Yma
-    - アンドレイ・カルパシー (@karpathy) 2022年3月27日
 
-[Twitter@karpathy](https://twitter.com/karpathy/status/1508148604149587972?s=20&t=aJJaybp2GRERlD1KnLhacw)
+# Works
+最近の活動（気が向いたとき更新）
+## LT
+錬金術MeetUp#5
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/giE3WCrkAv9r1B" width="495" height="335" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/takosumipasta/lt-meetup" title="[LT資料] 異常検知技術を転用して目指す錬金術 [錬金術MeetUp]" target="_blank">[LT資料] 異常検知技術を転用して目指す錬金術 [錬金術MeetUp]</a> </strong> from <strong><a href="https://www.slideshare.net/takosumipasta" target="_blank">takosumipasta</a></strong> </div>
 
-「テスラでの約5年間の勤務を終え、休養と旅行のためにしばらく時間を取ることにしました。特に、自分の技術力を再び磨き、ニューラルネットを訓練するために集中する時間が取れることに興奮しています。しかし、私はすでにすべてのロボットとGPU/Dojoクラスタを逃しており、再び私の指先にそれらを持つことを楽しみにしています "とKarpathyはTwitterに書きました。
+## 開発
+自作サイト「つけもの（仮称）」のリニューアル中？
 
-
-AIディレクターのサバティカルは、オートパイロットと完全自動運転の開発における彼の役割を考えると、テスラ支持者にとって心配なニュースに思えるかもしれませんが、Andrej Karpathy氏が同社の自動運転への取り組みを成功への潜在的な道に導くのに貢献したことは否定しがたいことです。
-
-Karpathyがサバティカルを終えてテスラに戻ってくると、いくつかの重要かつエキサイティングなプロジェクトが待っています。その中には、オートパイロットとFSDのトレーニングを加速させることが期待される同社のスーパーコンピュータ「Dojo」の展開や、サイバートラックに展開される同社の「Hardware 4.0」の展開も含まれています。
-
----
-
-Andrej Karpathy氏は、人工知能やディープラーニングの分野で最も豊富な経験を持つ専門家の一人とされています。スタンフォード大学では、同大学初のディープラーニングの授業「CS 231n」を設計し、主講師を務めています。視覚認識のための畳み込みニューラルネットワーク" を設計し、同大学初のディープラーニングの授業の主講師となる。このクラスは、2015年に150人だった履修生を2017年には750人にまで増やし、スタンフォード大学最大級のクラスに成長した。
-
-また、Karpathyは、一時期イーロン・マスクと関係があったOpenAIの創設メンバーであり、リサーチサイエンティストでもあった。テスラのAIディレクターとして採用される前は、OpenAIで生成モデルの深層学習や深層強化学習に取り組んでいました。Karpathyは現在、テスラのオートパイロットのコンピュータビジョンチームを率いており、データ収集やニューラルネットワークのトレーニングなどに注力している。
